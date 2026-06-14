@@ -14,3 +14,9 @@ Plataforma para gerenciamento e exibição de portfólios digitais.
 - Git
 - GitHub
 - Google Gemini
+
+## Segurança
+
+- Controle de acesso
+- Autenticação em dois fatores
+- Histórico de alterações
