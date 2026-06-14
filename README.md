@@ -1,5 +1,7 @@
 # PortfolioHUB
 
+Repositório desenvolvido para a atividade de implantação do PortfolioHUB, utilizando GitHub para controle de versão, segurança e documentação com apoio do Google Gemini.
+
 ## Funcionalidades
 
 - Armazenamento de projetos
