@@ -39,11 +39,13 @@ O Google Gemini foi utilizado como ferramenta de apoio para orientação sobre i
 Este projeto foi desenvolvido de forma cumulativa ao longo da disciplina de Bootcamp.
 
 Etapas anteriores:
-- Desenvolvimento do portfólio pessoal.
-- Organização dos projetos acadêmicos.
-- Criação do repositório de projetos.
+
+- Desenvolvimento de um portfólio pessoal em Word para apresentação dos projetos acadêmicos.
+- Organização e documentação dos projetos desenvolvidos.
+- Criação e organização do repositório de projetos no GitHub.
 
 Etapa atual:
+
 - Implantação do PortfolioHUB.
 - Controle de versão com GitHub.
 - Aplicação de práticas de segurança.
