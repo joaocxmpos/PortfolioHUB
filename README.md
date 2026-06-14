@@ -18,5 +18,5 @@ Plataforma para gerenciamento e exibição de portfólios digitais.
 ## Segurança
 
 - Controle de acesso
-- Autenticação em dois fatores
+- Autenticação de dois fatores
 - Histórico de alterações
